@@ -1,6 +1,6 @@
 {
         "self_mode": false,
-	"autobio": true,
+	"autobio": false,
 	"antihidetag": true,
 	"prefix": ".",
 	"language":"ind",
